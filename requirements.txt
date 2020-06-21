@@ -5,7 +5,7 @@ scipy
 numpy
 pillow
 matplotlib
-foolbox
+foolbox==2.4.0
 jupyter
 imageio
 scikit-image
