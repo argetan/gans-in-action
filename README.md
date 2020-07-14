@@ -1,14 +1,15 @@
-# [GANs in Action](https://www.manning.com/books/gans-in-action)
-###### by [Jakub Langr](https://github.com/jakubLangr) and [Vladimir Bok](https://github.com/vbok)
+# [GANs in Action](http://bit.ly/gan-in-action)
+###### 한빛미디어, 2019, 박해선
 
 <img src="/img/GANs_in_Action_cover.png" width="50%">
 
-### List of available code: 
-* Chapter 2: [Colab](https://colab.research.google.com/drive/1CPz-YvvJV8gHlsD2o68B0FYKFzaT6RCA), [Notebook](https://github.com/GANs-in-Action/gans-in-action/tree/master/chapter-2)
-* Chapter 3: [Notebook](https://github.com/GANs-in-Action/gans-in-action/tree/master/chapter-3)
-* Chapter 4: [Notebook](https://github.com/GANs-in-Action/gans-in-action/tree/master/chapter-4)
-* Chapter 6: [Colab](https://colab.research.google.com/drive/1HfhynNNsYSjggSMaR8a1ztAYrciEsd8m#scrollTo=qemhV7pDIkxu), [Notebook](https://github.com/GANs-in-Action/gans-in-action/tree/master/chapter-6)
-* Chapter 7: [Notebook](https://github.com/GANs-in-Action/gans-in-action/tree/master/chapter-7)
-* Chapter 8: [Notebook](https://github.com/GANs-in-Action/gans-in-action/tree/master/chapter-8)
-* Chapter 9: [Colab](https://colab.research.google.com/drive/1VYnR504dOUcQsQxxqCeerZcIzhDjk3U4), [Notebook](https://github.com/GANs-in-Action/gans-in-action/tree/master/chapter-9)
-* Chapter 10: [Colab](https://colab.research.google.com/drive/1bsmaB23bSEuu1zWyPSajDJ_DO3QqlovQ), [Notebook](https://github.com/GANs-in-Action/gans-in-action/tree/master/chapter-10)
+### 노트북 목록
+
+* 2장: [코랩](https://colab.research.google.com/github/rickiepark/gans-in-action/blob/master/chapter-2/Chapter_2_Autoencoder.ipynb), [Nbviewer](https://nbviewer.jupyter.org/github/rickiepark/gans-in-action/blob/master/chapter-2/Chapter_2_Autoencoder.ipynb), [노트북](https://github.com/rickiepark/gans-in-action/blob/master/chapter-2/Chapter_2_Autoencoder.ipynb)
+* 3장: [코랩](https://colab.research.google.com/github/rickiepark/gans-in-action/blob/master/chapter-3/Chapter_3_GAN.ipynb), [Nbviewer](https://nbviewer.jupyter.org/github/rickiepark/gans-in-action/blob/master/chapter-3/Chapter_3_GAN.ipynb), [노트북](https://github.com/rickiepark/gans-in-action/blob/master/chapter-3/Chapter_3_GAN.ipynb)
+* 4장: [코랩](https://colab.research.google.com/github/rickiepark/gans-in-action/blob/master/chapter-4/Chapter_4_DCGAN.ipynb), [Nbviewer](https://nbviewer.jupyter.org/github/rickiepark/gans-in-action/blob/master/chapter-4/Chapter_4_DCGAN.ipynb), [노트북](https://github.com/rickiepark/gans-in-action/blob/master/chapter-4/Chapter_4_DCGAN.ipynb)
+* 6장: [코랩](https://colab.research.google.com/github/rickiepark/gans-in-action/blob/master/chapter-6/Chapter_6_PGGAN.ipynb), [Nbviewer](https://nbviewer.jupyter.org/github/rickiepark/gans-in-action/blob/master/chapter-6/Chapter_6_PGGAN.ipynb), [노트북](https://github.com/rickiepark/gans-in-action/blob/master/chapter-6/Chapter_6_PGGAN.ipynb)
+* 7장: [코랩](https://colab.research.google.com/github/rickiepark/gans-in-action/blob/master/chapter-7/Chapter_7_SGAN.ipynb), [Nbviewer](https://nbviewer.jupyter.org/github/rickiepark/gans-in-action/blob/master/chapter-7/Chapter_7_SGAN.ipynb), [노트북](https://github.com/rickiepark/gans-in-action/blob/master/chapter-7/Chapter_7_SGAN.ipynb)
+* 8장: [코랩](https://colab.research.google.com/github/rickiepark/gans-in-action/blob/master/chapter-8/Chapter_8_CGAN.ipynb), [Nbviewer](https://nbviewer.jupyter.org/github/rickiepark/gans-in-action/blob/master/chapter-8/Chapter_8_CGAN.ipynb), [노트북](https://github.com/rickiepark/gans-in-action/blob/master/chapter-8/Chapter_8_CGAN.ipynb)
+* 9장: [코랩](https://colab.research.google.com/github/rickiepark/gans-in-action/blob/master/chapter-9/Chapter9_CycleGAN.ipynb), [Nbviewer](https://nbviewer.jupyter.org/github/rickiepark/gans-in-action/blob/master/chapter-9/Chapter9_CycleGAN.ipynb), [노트북](https://github.com/rickiepark/gans-in-action/blob/master/chapter-9/Chapter9_CycleGAN.ipynb)
+* 10장: [코랩](https://colab.research.google.com/github/rickiepark/gans-in-action/blob/master/chapter-10/Chapter10_Adversarial_Examples.ipynb), [Nbviewer](https://nbviewer.jupyter.org/github/rickiepark/gans-in-action/blob/master/chapter-10/Chapter10_Adversarial_Examples.ipynb), [노트북](https://github.com/rickiepark/gans-in-action/blob/master/chapter-10/Chapter10_Adversarial_Examples.ipynb)
