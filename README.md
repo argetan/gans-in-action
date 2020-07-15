@@ -1,5 +1,5 @@
-# [GANs in Action](http://bit.ly/gan-in-action)
-###### 한빛미디어, 2019, 박해선
+# [GAN 인 액션](http://bit.ly/gan-in-action)
+###### 한빛미디어, 2020, 박해선
 
 <img src="/img/GANs_in_Action_cover.png" width="50%">
 
