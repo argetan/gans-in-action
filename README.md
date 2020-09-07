@@ -1,6 +1,8 @@
 # [GAN 인 액션](http://bit.ly/gan-in-action)
 
-이 저장소는 [GAN 인 액션](https://tensorflow.blog/gan-in-action/)(한빛미디어, 2020)의 코드 저장소입니다. 모든 예제 코드는 주피터 노트북으로 제공되며 **구글 코랩(Colab)** 에서 실행할 수 있습니다.
+이 저장소는 [GAN 인 액션](https://tensorflow.blog/gan-in-action/)(한빛미디어, 2020)의 코드 저장소입니다.
+
+모든 예제 코드는 주피터 노트북으로 제공되며 **구글 코랩(Colab)** 에서 실행할 수 있습니다.
 
 이 코드는 텐서플로 2.3 버전에서 테스트했습니다.
 
