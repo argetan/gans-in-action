@@ -1,9 +1,10 @@
 # [GAN 인 액션](http://bit.ly/gan-in-action)
-###### 한빛미디어, 2020, 박해선
 
-<img src="/img/GANs_in_Action_cover.png" width="50%">
+이 저장소는 "GAN 인 액션"(한빛미디어, 2020)의 코드 저장소입니다. 모든 예제 코드는 주피터 노트북으로 제공되며 **구글 코랩(Colab)** 에서 실행할 수 있습니다.
 
-### 노트북 목록
+이 코드는 텐서플로 2.3 버전에서 테스트했습니다.
+
+### 목차
 
 * 2장: [코랩](https://colab.research.google.com/github/rickiepark/gans-in-action/blob/master/chapter-2/Chapter_2_Autoencoder.ipynb), [Nbviewer](https://nbviewer.jupyter.org/github/rickiepark/gans-in-action/blob/master/chapter-2/Chapter_2_Autoencoder.ipynb), [노트북](https://github.com/rickiepark/gans-in-action/blob/master/chapter-2/Chapter_2_Autoencoder.ipynb)
 * 3장: [코랩](https://colab.research.google.com/github/rickiepark/gans-in-action/blob/master/chapter-3/Chapter_3_GAN.ipynb), [Nbviewer](https://nbviewer.jupyter.org/github/rickiepark/gans-in-action/blob/master/chapter-3/Chapter_3_GAN.ipynb), [노트북](https://github.com/rickiepark/gans-in-action/blob/master/chapter-3/Chapter_3_GAN.ipynb)
@@ -13,3 +14,5 @@
 * 8장: [코랩](https://colab.research.google.com/github/rickiepark/gans-in-action/blob/master/chapter-8/Chapter_8_CGAN.ipynb), [Nbviewer](https://nbviewer.jupyter.org/github/rickiepark/gans-in-action/blob/master/chapter-8/Chapter_8_CGAN.ipynb), [노트북](https://github.com/rickiepark/gans-in-action/blob/master/chapter-8/Chapter_8_CGAN.ipynb)
 * 9장: [코랩](https://colab.research.google.com/github/rickiepark/gans-in-action/blob/master/chapter-9/Chapter9_CycleGAN.ipynb), [Nbviewer](https://nbviewer.jupyter.org/github/rickiepark/gans-in-action/blob/master/chapter-9/Chapter9_CycleGAN.ipynb), [노트북](https://github.com/rickiepark/gans-in-action/blob/master/chapter-9/Chapter9_CycleGAN.ipynb)
 * 10장: [코랩](https://colab.research.google.com/github/rickiepark/gans-in-action/blob/master/chapter-10/Chapter10_Adversarial_Examples.ipynb), [Nbviewer](https://nbviewer.jupyter.org/github/rickiepark/gans-in-action/blob/master/chapter-10/Chapter10_Adversarial_Examples.ipynb), [노트북](https://github.com/rickiepark/gans-in-action/blob/master/chapter-10/Chapter10_Adversarial_Examples.ipynb)
+
+<img src="/img/GANs_in_Action_cover.png" width="50%">
